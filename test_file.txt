@@ -1,5 +1,9 @@
 first row
 third row
 
+<<<<<<< Updated upstream
 2
 3
+=======
+9
+>>>>>>> Stashed changes
